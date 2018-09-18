@@ -1,0 +1,677 @@
+In file included from ./include/okapi/api/control/iterative/iterativePosPidController.hpp:15:0,
+                 from ./include/okapi/api/chassis/controller/chassisControllerPid.hpp:12,
+                 from ./include/okapi/api.hpp:12,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/filter/filter.hpp:1:1: warning: null character(s) ignored
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+ ^
+In file included from ./include/okapi/api/filter/passthroughFilter.hpp:11:0,
+                 from ./include/okapi/api/control/iterative/iterativePosPidController.hpp:16,
+                 from ./include/okapi/api/chassis/controller/chassisControllerPid.hpp:12,
+                 from ./include/okapi/api.hpp:12,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/filter/filter.hpp:1:1: warning: null character(s) ignored
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+ ^
+In file included from ./include/okapi/pathfinder/include/pathfinder.h:15:0,
+                 from ./include/okapi/api/control/async/asyncMotionProfileController.hpp:22,
+                 from ./include/okapi/api.hpp:21,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/pathfinder/include/pathfinder/followers/distance.h:1:1: warning: null character(s) ignored
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+ ^
+In file included from ./include/okapi/api/filter/composableFilter.hpp:11:0,
+                 from ./include/okapi/api/filter/velMath.hpp:11,
+                 from ./include/okapi/api/control/iterative/iterativeVelPidController.hpp:14,
+                 from ./include/okapi/api/control/async/asyncVelPidController.hpp:15,
+                 from ./include/okapi/api.hpp:25,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/filter/filter.hpp:1:1: warning: null character(s) ignored
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+ ^
+In file included from ./include/okapi/api/filter/medianFilter.hpp:13:0,
+                 from ./include/okapi/impl/device/adiUltrasonic.hpp:13,
+                 from ./include/okapi/api.hpp:44,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/filter/filter.hpp:1:1: warning: null character(s) ignored
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+ ^
+In file included from ./include/okapi/api/filter/averageFilter.hpp:11:0,
+                 from ./include/okapi/api.hpp:55,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/filter/filter.hpp:1:1: warning: null character(s) ignored
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+ ^
+In file included from ./include/okapi/api/filter/demaFilter.hpp:11:0,
+                 from ./include/okapi/api.hpp:57,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/filter/filter.hpp:1:1: warning: null character(s) ignored
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+ ^
+In file included from ./include/okapi/api/filter/ekfFilter.hpp:11:0,
+                 from ./include/okapi/api.hpp:58,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/filter/filter.hpp:1:1: warning: null character(s) ignored
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+ ^
+In file included from ./include/okapi/api/filter/emaFilter.hpp:11:0,
+                 from ./include/okapi/api.hpp:59,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/filter/filter.hpp:1:1: warning: null character(s) ignored
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+ ^
+In file included from ./include/okapi/api.hpp:60:0,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/filter/filter.hpp:1:1: warning: null character(s) ignored
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+ ^
+In file included from ./include/okapi/api/filter/filteredControllerInput.hpp:12:0,
+                 from ./include/okapi/api.hpp:61,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/filter/filter.hpp:1:1: warning: null character(s) ignored
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+ ^
+In file included from ./include/okapi/api/control/async/asyncPosIntegratedController.hpp:13:0,
+                 from ./include/okapi/api/chassis/controller/chassisControllerIntegrated.hpp:12,
+                 from ./include/okapi/api.hpp:11,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/util/logging.hpp:28:31: error: 'std::string_view' has not been declared
+                          std::string_view filename,
+                               ^~~~~~~~~~~
+./include/okapi/api/util/logging.hpp:54:19: error: 'std::string_view' has not been declared
+   void debug(std::string_view message) const noexcept;
+                   ^~~~~~~~~~~
+./include/okapi/api/util/logging.hpp:56:18: error: 'std::string_view' has not been declared
+   void info(std::string_view message) const noexcept;
+                  ^~~~~~~~~~~
+./include/okapi/api/util/logging.hpp:58:18: error: 'std::string_view' has not been declared
+   void warn(std::string_view message) const noexcept;
+                  ^~~~~~~~~~~
+./include/okapi/api/util/logging.hpp:60:19: error: 'std::string_view' has not been declared
+   void error(std::string_view message) const noexcept;
+                   ^~~~~~~~~~~
+In file included from ./include/okapi/api/control/iterative/iterativePosPidController.hpp:16:0,
+                 from ./include/okapi/api/chassis/controller/chassisControllerPid.hpp:12,
+                 from ./include/okapi/api.hpp:12,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/filter/passthroughFilter.hpp:14:41: error: expected class-name before '{' token
+ class PassthroughFilter : public Filter {
+                                         ^
+./include/okapi/api/filter/passthroughFilter.hpp:27:10: error: 'double okapi::PassthroughFilter::filter(double)' marked 'override', but does not override
+   double filter(double ireading) override;
+          ^~~~~~
+./include/okapi/api/filter/passthroughFilter.hpp:34:10: error: 'double okapi::PassthroughFilter::getOutput() const' marked 'override', but does not override
+   double getOutput() const override;
+          ^~~~~~~~~
+In file included from ./include/okapi/api/chassis/controller/chassisControllerPid.hpp:12:0,
+                 from ./include/okapi/api.hpp:12,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/control/iterative/iterativePosPidController.hpp:48:21: error: 'Filter' was not declared in this scope
+     std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                     ^~~~~~
+./include/okapi/api/control/iterative/iterativePosPidController.hpp:48:27: error: template argument 1 is invalid
+     std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                           ^
+./include/okapi/api/control/iterative/iterativePosPidController.hpp:48:27: error: template argument 2 is invalid
+./include/okapi/api/control/iterative/iterativePosPidController.hpp:60:21: error: 'Filter' was not declared in this scope
+     std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                     ^~~~~~
+./include/okapi/api/control/iterative/iterativePosPidController.hpp:60:27: error: template argument 1 is invalid
+     std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                           ^
+./include/okapi/api/control/iterative/iterativePosPidController.hpp:60:27: error: template argument 2 is invalid
+./include/okapi/api/control/iterative/iterativePosPidController.hpp:198:19: error: 'Filter' was not declared in this scope
+   std::unique_ptr<Filter> derivativeFilter;
+                   ^~~~~~
+./include/okapi/api/control/iterative/iterativePosPidController.hpp:198:25: error: template argument 1 is invalid
+   std::unique_ptr<Filter> derivativeFilter;
+                         ^
+./include/okapi/api/control/iterative/iterativePosPidController.hpp:198:25: error: template argument 2 is invalid
+./include/okapi/api/control/iterative/iterativePosPidController.hpp:48:84: error: could not convert 'std::make_unique(_Args&& ...) [with _Tp = okapi::PassthroughFilter; _Args = {}; typename std::_MakeUniq<_Tp>::__single_object = std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >]()' from 'std::_MakeUniq<okapi::PassthroughFilter>::__single_object {aka std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >}' to 'int'
+     std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                                                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~
+./include/okapi/api/control/iterative/iterativePosPidController.hpp:60:84: error: could not convert 'std::make_unique(_Args&& ...) [with _Tp = okapi::PassthroughFilter; _Args = {}; typename std::_MakeUniq<_Tp>::__single_object = std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >]()' from 'std::_MakeUniq<okapi::PassthroughFilter>::__single_object {aka std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >}' to 'int'
+     std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                                                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~
+In file included from ./include/okapi/api/control/async/asyncWrapper.hpp:19:0,
+                 from ./include/okapi/api/control/async/asyncPosPidController.hpp:12,
+                 from ./include/okapi/api.hpp:23,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/util/mathUtil.hpp: In function 'constexpr double okapi::deadband(double, double, double)':
+./include/okapi/api/util/mathUtil.hpp:80:10: error: 'clamp' is not a member of 'std'
+   return std::clamp(value, min, max) == value ? 0 : value;
+          ^~~
+In file included from ./include/okapi/api/control/async/asyncPosPidController.hpp:12:0,
+                 from ./include/okapi/api.hpp:23,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/control/async/asyncWrapper.hpp: In member function 'void okapi::AsyncWrapper<Input, Output>::reset()':
+./include/okapi/api/control/async/asyncWrapper.hpp:136:39: error: no matching function for call to 'okapi::Logger::info(const char [20])'
+     logger->info("AsyncWrapper: Reset");
+                                       ^
+In file included from ./include/okapi/api/control/async/asyncPosIntegratedController.hpp:13:0,
+                 from ./include/okapi/api/chassis/controller/chassisControllerIntegrated.hpp:12,
+                 from ./include/okapi/api.hpp:11,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/util/logging.hpp:56:8: note: candidate: void okapi::Logger::info(int) const <near match>
+   void info(std::string_view message) const noexcept;
+        ^~~~
+./include/okapi/api/util/logging.hpp:56:8: note:   conversion of argument 1 would be ill-formed:
+In file included from ./include/okapi/api/control/async/asyncPosPidController.hpp:12:0,
+                 from ./include/okapi/api.hpp:23,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/control/async/asyncWrapper.hpp: In member function 'void okapi::AsyncWrapper<Input, Output>::flipDisable(bool)':
+./include/okapi/api/control/async/asyncWrapper.hpp:157:76: error: no matching function for call to 'okapi::Logger::info(std::__cxx11::basic_string<char>)'
+     logger->info("AsyncWrapper: flipDisable " + std::to_string(iisDisabled));
+                                                                            ^
+In file included from ./include/okapi/api/control/async/asyncPosIntegratedController.hpp:13:0,
+                 from ./include/okapi/api/chassis/controller/chassisControllerIntegrated.hpp:12,
+                 from ./include/okapi/api.hpp:11,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/util/logging.hpp:56:8: note: candidate: void okapi::Logger::info(int) const
+   void info(std::string_view message) const noexcept;
+        ^~~~
+./include/okapi/api/util/logging.hpp:56:8: note:   no known conversion for argument 1 from 'std::__cxx11::basic_string<char>' to 'int'
+In file included from ./include/okapi/api/control/async/asyncPosPidController.hpp:12:0,
+                 from ./include/okapi/api.hpp:23,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/control/async/asyncWrapper.hpp: In member function 'void okapi::AsyncWrapper<Input, Output>::waitUntilSettled()':
+./include/okapi/api/control/async/asyncWrapper.hpp:176:51: error: no matching function for call to 'okapi::Logger::info(const char [32])'
+     logger->info("AsyncWrapper: Waiting to settle");
+                                                   ^
+In file included from ./include/okapi/api/control/async/asyncPosIntegratedController.hpp:13:0,
+                 from ./include/okapi/api/chassis/controller/chassisControllerIntegrated.hpp:12,
+                 from ./include/okapi/api.hpp:11,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/util/logging.hpp:56:8: note: candidate: void okapi::Logger::info(int) const <near match>
+   void info(std::string_view message) const noexcept;
+        ^~~~
+./include/okapi/api/util/logging.hpp:56:8: note:   conversion of argument 1 would be ill-formed:
+In file included from ./include/okapi/api/control/async/asyncPosPidController.hpp:12:0,
+                 from ./include/okapi/api.hpp:23,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/control/async/asyncWrapper.hpp:182:56: error: no matching function for call to 'okapi::Logger::info(const char [37])'
+     logger->info("AsyncWrapper: Done waiting to settle");
+                                                        ^
+In file included from ./include/okapi/api/control/async/asyncPosIntegratedController.hpp:13:0,
+                 from ./include/okapi/api/chassis/controller/chassisControllerIntegrated.hpp:12,
+                 from ./include/okapi/api.hpp:11,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/util/logging.hpp:56:8: note: candidate: void okapi::Logger::info(int) const <near match>
+   void info(std::string_view message) const noexcept;
+        ^~~~
+./include/okapi/api/util/logging.hpp:56:8: note:   conversion of argument 1 would be ill-formed:
+In file included from ./include/okapi/api.hpp:23:0,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/control/async/asyncPosPidController.hpp: At global scope:
+./include/okapi/api/control/async/asyncPosPidController.hpp:31:21: error: 'Filter' was not declared in this scope
+     std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                     ^~~~~~
+./include/okapi/api/control/async/asyncPosPidController.hpp:31:27: error: template argument 1 is invalid
+     std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                           ^
+./include/okapi/api/control/async/asyncPosPidController.hpp:31:27: error: template argument 2 is invalid
+./include/okapi/api/control/async/asyncPosPidController.hpp:31:84: error: could not convert 'std::make_unique(_Args&& ...) [with _Tp = okapi::PassthroughFilter; _Args = {}; typename std::_MakeUniq<_Tp>::__single_object = std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >]()' from 'std::_MakeUniq<okapi::PassthroughFilter>::__single_object {aka std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >}' to 'int'
+     std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                                                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~
+In file included from ./include/okapi/api/filter/velMath.hpp:11:0,
+                 from ./include/okapi/api/control/iterative/iterativeVelPidController.hpp:14,
+                 from ./include/okapi/api/control/async/asyncVelPidController.hpp:15,
+                 from ./include/okapi/api.hpp:25,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/filter/composableFilter.hpp:18:40: error: expected class-name before '{' token
+ class ComposableFilter : public Filter {
+                                        ^
+./include/okapi/api/filter/composableFilter.hpp:34:64: error: 'Filter' was not declared in this scope
+   ComposableFilter(const std::initializer_list<std::shared_ptr<Filter>> &ilist);
+                                                                ^~~~~~
+./include/okapi/api/filter/composableFilter.hpp:34:64: error: template argument 1 is invalid
+./include/okapi/api/filter/composableFilter.hpp:34:70: error: template argument 1 is invalid
+   ComposableFilter(const std::initializer_list<std::shared_ptr<Filter>> &ilist);
+                                                                      ^~
+./include/okapi/api/filter/composableFilter.hpp:56:42: error: 'Filter' was not declared in this scope
+   virtual void addFilter(std::shared_ptr<Filter> ifilter);
+                                          ^~~~~~
+./include/okapi/api/filter/composableFilter.hpp:56:48: error: template argument 1 is invalid
+   virtual void addFilter(std::shared_ptr<Filter> ifilter);
+                                                ^
+./include/okapi/api/filter/composableFilter.hpp:59:31: error: 'Filter' was not declared in this scope
+   std::vector<std::shared_ptr<Filter>> filters;
+                               ^~~~~~
+./include/okapi/api/filter/composableFilter.hpp:59:31: error: template argument 1 is invalid
+./include/okapi/api/filter/composableFilter.hpp:59:37: error: template argument 1 is invalid
+   std::vector<std::shared_ptr<Filter>> filters;
+                                     ^~
+./include/okapi/api/filter/composableFilter.hpp:59:37: error: template argument 2 is invalid
+./include/okapi/api/filter/composableFilter.hpp:42:10: error: 'double okapi::ComposableFilter::filter(double)' marked 'override', but does not override
+   double filter(double ireading) override;
+          ^~~~~~
+./include/okapi/api/filter/composableFilter.hpp:49:10: error: 'double okapi::ComposableFilter::getOutput() const' marked 'override', but does not override
+   double getOutput() const override;
+          ^~~~~~~~~
+In file included from ./include/okapi/api/control/iterative/iterativeVelPidController.hpp:14:0,
+                 from ./include/okapi/api/control/async/asyncVelPidController.hpp:15,
+                 from ./include/okapi/api.hpp:25,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/filter/velMath.hpp:23:52: error: 'Filter' was not declared in this scope
+   VelMathArgs(double iticksPerRev, std::shared_ptr<Filter> ifilter, QTime isampleTime = 0_ms);
+                                                    ^~~~~~
+./include/okapi/api/filter/velMath.hpp:23:58: error: template argument 1 is invalid
+   VelMathArgs(double iticksPerRev, std::shared_ptr<Filter> ifilter, QTime isampleTime = 0_ms);
+                                                          ^
+./include/okapi/api/filter/velMath.hpp:28:19: error: 'Filter' was not declared in this scope
+   std::shared_ptr<Filter> filter;
+                   ^~~~~~
+./include/okapi/api/filter/velMath.hpp:28:25: error: template argument 1 is invalid
+   std::shared_ptr<Filter> filter;
+                         ^
+./include/okapi/api/filter/velMath.hpp:43:27: error: 'Filter' was not declared in this scope
+           std::shared_ptr<Filter> ifilter,
+                           ^~~~~~
+./include/okapi/api/filter/velMath.hpp:43:33: error: template argument 1 is invalid
+           std::shared_ptr<Filter> ifilter,
+                                 ^
+./include/okapi/api/filter/velMath.hpp:86:19: error: 'Filter' was not declared in this scope
+   std::shared_ptr<Filter> filter;
+                   ^~~~~~
+./include/okapi/api/filter/velMath.hpp:86:25: error: template argument 1 is invalid
+   std::shared_ptr<Filter> filter;
+                         ^
+In file included from ./include/okapi/api/control/async/asyncVelPidController.hpp:15:0,
+                 from ./include/okapi/api.hpp:25,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/control/iterative/iterativeVelPidController.hpp:38:21: error: 'Filter' was not declared in this scope
+     std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                     ^~~~~~
+./include/okapi/api/control/iterative/iterativeVelPidController.hpp:38:27: error: template argument 1 is invalid
+     std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                           ^
+./include/okapi/api/control/iterative/iterativeVelPidController.hpp:38:27: error: template argument 2 is invalid
+./include/okapi/api/control/iterative/iterativeVelPidController.hpp:176:19: error: 'Filter' was not declared in this scope
+   std::unique_ptr<Filter> derivativeFilter;
+                   ^~~~~~
+./include/okapi/api/control/iterative/iterativeVelPidController.hpp:176:25: error: template argument 1 is invalid
+   std::unique_ptr<Filter> derivativeFilter;
+                         ^
+./include/okapi/api/control/iterative/iterativeVelPidController.hpp:176:25: error: template argument 2 is invalid
+./include/okapi/api/control/iterative/iterativeVelPidController.hpp:38:84: error: could not convert 'std::make_unique(_Args&& ...) [with _Tp = okapi::PassthroughFilter; _Args = {}; typename std::_MakeUniq<_Tp>::__single_object = std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >]()' from 'std::_MakeUniq<okapi::PassthroughFilter>::__single_object {aka std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >}' to 'int'
+     std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                                                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~
+In file included from ./include/okapi/api.hpp:25:0,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/control/async/asyncVelPidController.hpp:32:21: error: 'Filter' was not declared in this scope
+     std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                     ^~~~~~
+./include/okapi/api/control/async/asyncVelPidController.hpp:32:27: error: template argument 1 is invalid
+     std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                           ^
+./include/okapi/api/control/async/asyncVelPidController.hpp:32:27: error: template argument 2 is invalid
+./include/okapi/api/control/async/asyncVelPidController.hpp:32:84: error: could not convert 'std::make_unique(_Args&& ...) [with _Tp = okapi::PassthroughFilter; _Args = {}; typename std::_MakeUniq<_Tp>::__single_object = std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >]()' from 'std::_MakeUniq<okapi::PassthroughFilter>::__single_object {aka std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >}' to 'int'
+     std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                                                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~
+In file included from ./include/okapi/api.hpp:32:0,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/control/util/controllerRunner.hpp: In member function 'virtual Output okapi::ControllerRunner<Input, Output>::runUntilSettled(Input, okapi::AsyncController<Input, Output>&)':
+./include/okapi/api/control/util/controllerRunner.hpp:41:94: error: no matching function for call to 'okapi::Logger::info(const char [75])'
+     logger->info("ControllerRunner: runUntilSettled(AsyncController): Done waiting to settle");
+                                                                                              ^
+In file included from ./include/okapi/api/control/async/asyncPosIntegratedController.hpp:13:0,
+                 from ./include/okapi/api/chassis/controller/chassisControllerIntegrated.hpp:12,
+                 from ./include/okapi/api.hpp:11,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/util/logging.hpp:56:8: note: candidate: void okapi::Logger::info(int) const <near match>
+   void info(std::string_view message) const noexcept;
+        ^~~~
+./include/okapi/api/util/logging.hpp:56:8: note:   conversion of argument 1 would be ill-formed:
+In file included from ./include/okapi/api.hpp:32:0,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/control/util/controllerRunner.hpp: In member function 'virtual Output okapi::ControllerRunner<Input, Output>::runUntilSettled(Input, okapi::IterativeController<Input, Output>&, okapi::ControllerOutput<Output>&)':
+./include/okapi/api/control/util/controllerRunner.hpp:65:98: error: no matching function for call to 'okapi::Logger::info(const char [79])'
+     logger->info("ControllerRunner: runUntilSettled(IterativeController): Done waiting to settle");
+                                                                                                  ^
+In file included from ./include/okapi/api/control/async/asyncPosIntegratedController.hpp:13:0,
+                 from ./include/okapi/api/chassis/controller/chassisControllerIntegrated.hpp:12,
+                 from ./include/okapi/api.hpp:11,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/util/logging.hpp:56:8: note: candidate: void okapi::Logger::info(int) const <near match>
+   void info(std::string_view message) const noexcept;
+        ^~~~
+./include/okapi/api/util/logging.hpp:56:8: note:   conversion of argument 1 would be ill-formed:
+In file included from ./include/okapi/api.hpp:32:0,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/control/util/controllerRunner.hpp: In member function 'virtual Output okapi::ControllerRunner<Input, Output>::runUntilAtTarget(Input, okapi::AsyncController<Input, Output>&)':
+./include/okapi/api/control/util/controllerRunner.hpp:90:95: error: no matching function for call to 'okapi::Logger::info(const char [76])'
+     logger->info("ControllerRunner: runUntilAtTarget(AsyncController): Done waiting to settle");
+                                                                                               ^
+In file included from ./include/okapi/api/control/async/asyncPosIntegratedController.hpp:13:0,
+                 from ./include/okapi/api/chassis/controller/chassisControllerIntegrated.hpp:12,
+                 from ./include/okapi/api.hpp:11,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/util/logging.hpp:56:8: note: candidate: void okapi::Logger::info(int) const <near match>
+   void info(std::string_view message) const noexcept;
+        ^~~~
+./include/okapi/api/util/logging.hpp:56:8: note:   conversion of argument 1 would be ill-formed:
+In file included from ./include/okapi/api.hpp:32:0,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/control/util/controllerRunner.hpp: In member function 'virtual Output okapi::ControllerRunner<Input, Output>::runUntilAtTarget(Input, okapi::IterativeController<Input, Output>&, okapi::ControllerOutput<Output>&)':
+./include/okapi/api/control/util/controllerRunner.hpp:118:99: error: no matching function for call to 'okapi::Logger::info(const char [80])'
+     logger->info("ControllerRunner: runUntilAtTarget(IterativeController): Done waiting to settle");
+                                                                                                   ^
+In file included from ./include/okapi/api/control/async/asyncPosIntegratedController.hpp:13:0,
+                 from ./include/okapi/api/chassis/controller/chassisControllerIntegrated.hpp:12,
+                 from ./include/okapi/api.hpp:11,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/util/logging.hpp:56:8: note: candidate: void okapi::Logger::info(int) const <near match>
+   void info(std::string_view message) const noexcept;
+        ^~~~
+./include/okapi/api/util/logging.hpp:56:8: note:   conversion of argument 1 would be ill-formed:
+In file included from ./include/okapi/api.hpp:36:0,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/impl/control/async/asyncControllerFactory.hpp: At global scope:
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:69:26: error: 'Filter' was not declared in this scope
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                          ^~~~~~
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:69:32: error: template argument 1 is invalid
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                                ^
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:69:32: error: template argument 2 is invalid
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:88:26: error: 'Filter' was not declared in this scope
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                          ^~~~~~
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:88:32: error: template argument 1 is invalid
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                                ^
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:88:32: error: template argument 2 is invalid
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:107:26: error: 'Filter' was not declared in this scope
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                          ^~~~~~
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:107:32: error: template argument 1 is invalid
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                                ^
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:107:32: error: template argument 2 is invalid
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:124:26: error: 'Filter' was not declared in this scope
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                          ^~~~~~
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:124:32: error: template argument 1 is invalid
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                                ^
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:124:32: error: template argument 2 is invalid
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:143:26: error: 'Filter' was not declared in this scope
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                          ^~~~~~
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:143:32: error: template argument 1 is invalid
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                                ^
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:143:32: error: template argument 2 is invalid
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:162:26: error: 'Filter' was not declared in this scope
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                          ^~~~~~
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:162:32: error: template argument 1 is invalid
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                                ^
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:162:32: error: template argument 2 is invalid
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:181:26: error: 'Filter' was not declared in this scope
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                          ^~~~~~
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:181:32: error: template argument 1 is invalid
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                                ^
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:181:32: error: template argument 2 is invalid
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:199:26: error: 'Filter' was not declared in this scope
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                          ^~~~~~
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:199:32: error: template argument 1 is invalid
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                                ^
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:199:32: error: template argument 2 is invalid
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:219:26: error: 'Filter' was not declared in this scope
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                          ^~~~~~
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:219:32: error: template argument 1 is invalid
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                                ^
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:219:32: error: template argument 2 is invalid
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:239:26: error: 'Filter' was not declared in this scope
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                          ^~~~~~
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:239:32: error: template argument 1 is invalid
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                                ^
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:239:32: error: template argument 2 is invalid
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:257:26: error: 'Filter' was not declared in this scope
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                          ^~~~~~
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:257:32: error: template argument 1 is invalid
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                                ^
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:257:32: error: template argument 2 is invalid
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:277:26: error: 'Filter' was not declared in this scope
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                          ^~~~~~
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:277:32: error: template argument 1 is invalid
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                                ^
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:277:32: error: template argument 2 is invalid
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:297:26: error: 'Filter' was not declared in this scope
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                          ^~~~~~
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:297:32: error: template argument 1 is invalid
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                                ^
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:297:32: error: template argument 2 is invalid
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:317:26: error: 'Filter' was not declared in this scope
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                          ^~~~~~
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:317:32: error: template argument 1 is invalid
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                                ^
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:317:32: error: template argument 2 is invalid
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:69:89: error: could not convert 'std::make_unique(_Args&& ...) [with _Tp = okapi::PassthroughFilter; _Args = {}; typename std::_MakeUniq<_Tp>::__single_object = std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >]()' from 'std::_MakeUniq<okapi::PassthroughFilter>::__single_object {aka std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >}' to 'int'
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                                                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:88:89: error: could not convert 'std::make_unique(_Args&& ...) [with _Tp = okapi::PassthroughFilter; _Args = {}; typename std::_MakeUniq<_Tp>::__single_object = std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >]()' from 'std::_MakeUniq<okapi::PassthroughFilter>::__single_object {aka std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >}' to 'int'
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                                                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:107:89: error: could not convert 'std::make_unique(_Args&& ...) [with _Tp = okapi::PassthroughFilter; _Args = {}; typename std::_MakeUniq<_Tp>::__single_object = std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >]()' from 'std::_MakeUniq<okapi::PassthroughFilter>::__single_object {aka std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >}' to 'int'
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                                                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:124:89: error: could not convert 'std::make_unique(_Args&& ...) [with _Tp = okapi::PassthroughFilter; _Args = {}; typename std::_MakeUniq<_Tp>::__single_object = std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >]()' from 'std::_MakeUniq<okapi::PassthroughFilter>::__single_object {aka std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >}' to 'int'
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                                                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:143:89: error: could not convert 'std::make_unique(_Args&& ...) [with _Tp = okapi::PassthroughFilter; _Args = {}; typename std::_MakeUniq<_Tp>::__single_object = std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >]()' from 'std::_MakeUniq<okapi::PassthroughFilter>::__single_object {aka std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >}' to 'int'
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                                                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:162:89: error: could not convert 'std::make_unique(_Args&& ...) [with _Tp = okapi::PassthroughFilter; _Args = {}; typename std::_MakeUniq<_Tp>::__single_object = std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >]()' from 'std::_MakeUniq<okapi::PassthroughFilter>::__single_object {aka std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >}' to 'int'
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                                                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:181:89: error: could not convert 'std::make_unique(_Args&& ...) [with _Tp = okapi::PassthroughFilter; _Args = {}; typename std::_MakeUniq<_Tp>::__single_object = std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >]()' from 'std::_MakeUniq<okapi::PassthroughFilter>::__single_object {aka std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >}' to 'int'
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                                                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:199:89: error: could not convert 'std::make_unique(_Args&& ...) [with _Tp = okapi::PassthroughFilter; _Args = {}; typename std::_MakeUniq<_Tp>::__single_object = std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >]()' from 'std::_MakeUniq<okapi::PassthroughFilter>::__single_object {aka std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >}' to 'int'
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                                                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:219:89: error: could not convert 'std::make_unique(_Args&& ...) [with _Tp = okapi::PassthroughFilter; _Args = {}; typename std::_MakeUniq<_Tp>::__single_object = std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >]()' from 'std::_MakeUniq<okapi::PassthroughFilter>::__single_object {aka std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >}' to 'int'
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                                                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:239:89: error: could not convert 'std::make_unique(_Args&& ...) [with _Tp = okapi::PassthroughFilter; _Args = {}; typename std::_MakeUniq<_Tp>::__single_object = std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >]()' from 'std::_MakeUniq<okapi::PassthroughFilter>::__single_object {aka std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >}' to 'int'
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                                                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:257:89: error: could not convert 'std::make_unique(_Args&& ...) [with _Tp = okapi::PassthroughFilter; _Args = {}; typename std::_MakeUniq<_Tp>::__single_object = std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >]()' from 'std::_MakeUniq<okapi::PassthroughFilter>::__single_object {aka std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >}' to 'int'
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                                                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:277:89: error: could not convert 'std::make_unique(_Args&& ...) [with _Tp = okapi::PassthroughFilter; _Args = {}; typename std::_MakeUniq<_Tp>::__single_object = std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >]()' from 'std::_MakeUniq<okapi::PassthroughFilter>::__single_object {aka std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >}' to 'int'
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                                                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:297:89: error: could not convert 'std::make_unique(_Args&& ...) [with _Tp = okapi::PassthroughFilter; _Args = {}; typename std::_MakeUniq<_Tp>::__single_object = std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >]()' from 'std::_MakeUniq<okapi::PassthroughFilter>::__single_object {aka std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >}' to 'int'
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                                                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~
+./include/okapi/impl/control/async/asyncControllerFactory.hpp:317:89: error: could not convert 'std::make_unique(_Args&& ...) [with _Tp = okapi::PassthroughFilter; _Args = {}; typename std::_MakeUniq<_Tp>::__single_object = std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >]()' from 'std::_MakeUniq<okapi::PassthroughFilter>::__single_object {aka std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >}' to 'int'
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                                                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~
+In file included from ./include/okapi/api.hpp:37:0,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/impl/control/iterative/iterativeControllerFactory.hpp:34:26: error: 'Filter' was not declared in this scope
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                          ^~~~~~
+./include/okapi/impl/control/iterative/iterativeControllerFactory.hpp:34:32: error: template argument 1 is invalid
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                                ^
+./include/okapi/impl/control/iterative/iterativeControllerFactory.hpp:34:32: error: template argument 2 is invalid
+./include/okapi/impl/control/iterative/iterativeControllerFactory.hpp:50:26: error: 'Filter' was not declared in this scope
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                          ^~~~~~
+./include/okapi/impl/control/iterative/iterativeControllerFactory.hpp:50:32: error: template argument 1 is invalid
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                                ^
+./include/okapi/impl/control/iterative/iterativeControllerFactory.hpp:50:32: error: template argument 2 is invalid
+./include/okapi/impl/control/iterative/iterativeControllerFactory.hpp:34:89: error: could not convert 'std::make_unique(_Args&& ...) [with _Tp = okapi::PassthroughFilter; _Args = {}; typename std::_MakeUniq<_Tp>::__single_object = std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >]()' from 'std::_MakeUniq<okapi::PassthroughFilter>::__single_object {aka std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >}' to 'int'
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                                                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~
+./include/okapi/impl/control/iterative/iterativeControllerFactory.hpp:50:89: error: could not convert 'std::make_unique(_Args&& ...) [with _Tp = okapi::PassthroughFilter; _Args = {}; typename std::_MakeUniq<_Tp>::__single_object = std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >]()' from 'std::_MakeUniq<okapi::PassthroughFilter>::__single_object {aka std::unique_ptr<okapi::PassthroughFilter, std::default_delete<okapi::PassthroughFilter> >}' to 'int'
+          std::unique_ptr<Filter> iderivativeFilter = std::make_unique<PassthroughFilter>());
+                                                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~
+In file included from ./include/okapi/impl/device/adiUltrasonic.hpp:13:0,
+                 from ./include/okapi/api.hpp:44,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/filter/medianFilter.hpp:24:61: error: expected class-name before '{' token
+ template <std::size_t n> class MedianFilter : public Filter {
+                                                             ^
+In file included from ./include/okapi/api.hpp:44:0,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/impl/device/adiUltrasonic.hpp:34:82: error: 'Filter' was not declared in this scope
+   ADIUltrasonic(std::uint8_t iportTop, std::uint8_t iportBottom, std::unique_ptr<Filter> ifilter);
+                                                                                  ^~~~~~
+./include/okapi/impl/device/adiUltrasonic.hpp:34:88: error: template argument 1 is invalid
+   ADIUltrasonic(std::uint8_t iportTop, std::uint8_t iportBottom, std::unique_ptr<Filter> ifilter);
+                                                                                        ^
+./include/okapi/impl/device/adiUltrasonic.hpp:34:88: error: template argument 2 is invalid
+./include/okapi/impl/device/adiUltrasonic.hpp:53:19: error: 'Filter' was not declared in this scope
+   std::unique_ptr<Filter> filter;
+                   ^~~~~~
+./include/okapi/impl/device/adiUltrasonic.hpp:53:25: error: template argument 1 is invalid
+   std::unique_ptr<Filter> filter;
+                         ^
+./include/okapi/impl/device/adiUltrasonic.hpp:53:25: error: template argument 2 is invalid
+In file included from ./include/okapi/api.hpp:55:0,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/filter/averageFilter.hpp:21:62: error: expected class-name before '{' token
+ template <std::size_t n> class AverageFilter : public Filter {
+                                                              ^
+In file included from ./include/okapi/api.hpp:57:0,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/filter/demaFilter.hpp:15:34: error: expected class-name before '{' token
+ class DemaFilter : public Filter {
+                                  ^
+./include/okapi/api/filter/demaFilter.hpp:31:10: error: 'double okapi::DemaFilter::filter(double)' marked 'override', but does not override
+   double filter(double ireading) override;
+          ^~~~~~
+./include/okapi/api/filter/demaFilter.hpp:38:10: error: 'double okapi::DemaFilter::getOutput() const' marked 'override', but does not override
+   double getOutput() const override;
+          ^~~~~~~~~
+In file included from ./include/okapi/api.hpp:58:0,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/filter/ekfFilter.hpp:15:33: error: expected class-name before '{' token
+ class EKFFilter : public Filter {
+                                 ^
+./include/okapi/api/filter/ekfFilter.hpp:46:10: error: 'double okapi::EKFFilter::filter(double)' marked 'override', but does not override
+   double filter(double ireading) override;
+          ^~~~~~
+./include/okapi/api/filter/ekfFilter.hpp:62:10: error: 'double okapi::EKFFilter::getOutput() const' marked 'override', but does not override
+   double getOutput() const override;
+          ^~~~~~~~~
+In file included from ./include/okapi/api.hpp:59:0,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/filter/emaFilter.hpp:14:33: error: expected class-name before '{' token
+ class EmaFilter : public Filter {
+                                 ^
+./include/okapi/api/filter/emaFilter.hpp:29:10: error: 'double okapi::EmaFilter::filter(double)' marked 'override', but does not override
+   double filter(double ireading) override;
+          ^~~~~~
+./include/okapi/api/filter/emaFilter.hpp:36:10: error: 'double okapi::EmaFilter::getOutput() const' marked 'override', but does not override
+   double getOutput() const override;
+          ^~~~~~~~~
+In file included from ./include/okapi/api.hpp:65:0,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/impl/filter/velMathFactory.hpp:35:47: error: 'Filter' was not declared in this scope
+   create(double iticksPerRev, std::shared_ptr<Filter> ifilter, QTime isampleTime = 0_ms);
+                                               ^~~~~~
+./include/okapi/impl/filter/velMathFactory.hpp:35:53: error: template argument 1 is invalid
+   create(double iticksPerRev, std::shared_ptr<Filter> ifilter, QTime isampleTime = 0_ms);
+                                                     ^
+./include/okapi/impl/filter/velMathFactory.hpp:38:50: error: 'Filter' was not declared in this scope
+   createPtr(double iticksPerRev, std::shared_ptr<Filter> ifilter, QTime isampleTime = 0_ms);
+                                                  ^~~~~~
+./include/okapi/impl/filter/velMathFactory.hpp:38:56: error: template argument 1 is invalid
+   createPtr(double iticksPerRev, std::shared_ptr<Filter> ifilter, QTime isampleTime = 0_ms);
+                                                        ^
+In file included from src/main.cpp:4:0:
+src/./systems.hpp:6:1: error: use of deleted function 'okapi::ChassisControllerIntegrated::ChassisControllerIntegrated(okapi::ChassisControllerIntegrated&&)'
+ );
+ ^
+In file included from ./include/okapi/api.hpp:11:0,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/chassis/controller/chassisControllerIntegrated.hpp:17:7: note: 'okapi::ChassisControllerIntegrated::ChassisControllerIntegrated(okapi::ChassisControllerIntegrated&&)' is implicitly deleted because the default definition would be ill-formed:
+ class ChassisControllerIntegrated : public virtual ChassisController {
+       ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+./include/okapi/api/chassis/controller/chassisControllerIntegrated.hpp:17:7: error: use of deleted function 'okapi::ChassisController::ChassisController(const okapi::ChassisController&)'
+In file included from ./include/okapi/api/chassis/controller/chassisControllerIntegrated.hpp:11:0,
+                 from ./include/okapi/api.hpp:11,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/chassis/controller/chassisController.hpp:20:7: note: 'okapi::ChassisController::ChassisController(const okapi::ChassisController&)' is implicitly deleted because the default definition would be ill-formed:
+ class ChassisController : public ChassisModel {
+       ^~~~~~~~~~~~~~~~~
+./include/okapi/api/chassis/controller/chassisController.hpp:20:7: error: use of deleted function 'okapi::ChassisModel::ChassisModel(const okapi::ChassisModel&)'
+In file included from ./include/okapi/api/chassis/controller/chassisController.hpp:12:0,
+                 from ./include/okapi/api/chassis/controller/chassisControllerIntegrated.hpp:11,
+                 from ./include/okapi/api.hpp:11,
+                 from ./include/main.h:57,
+                 from src/main.cpp:1:
+./include/okapi/api/chassis/model/chassisModel.hpp:27:3: note: declared here
+   ChassisModel(const ChassisModel &) = delete;
+   ^~~~~~~~~~~~
