@@ -11,12 +11,11 @@ void autonomous() {
 
 void opcontrol() {
 	
-	
 	while(true){
 
 			driver();
-			
 		}
+		
 		pros::delay(10);
 	}
 
