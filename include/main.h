@@ -61,7 +61,7 @@
 /**
  * You can add C++-only headers here
  */
-//#include <iostream>
+#include <iostream>
 #endif
 
 #endif  // _PROS_MAIN_H_
