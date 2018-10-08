@@ -9,8 +9,11 @@ void autonomous() {
 }
 
 void opcontrol() {
+
 	driver();
+
 	while (true) {
+		
 		pros::delay(10);
 	}
 }

@@ -1,4 +1,4 @@
-#include "main.h"  
+#include "main.h"
 using namespace okapi;
 
 #include "./subsystems.hpp"
@@ -9,11 +9,11 @@ void autonomous() {
 }
 
 void opcontrol() {
-	
-	while (true) {
 
-		driver();
-	
+	driver();
+
+	while (true) {
+		
+		pros::delay(10);
 	}
-	pros::delay(10);
 }

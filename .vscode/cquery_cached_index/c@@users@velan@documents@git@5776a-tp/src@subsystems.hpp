@@ -1,13 +1,14 @@
 #pragma once
 
-Controller controller;
+#define subsystems() \
+Controller controller;\
+auto chassis = ChassisControllerFactory::create(\
+	{1, 2, 3}, \
+	{ -8,  -9,  -10}, \
+	AbstractMotor::gearset::green, \
+	{4_in, 10_in} \
+);\
+Motor claw(7); \
+Motor lift(5); 
 
-auto chassis = ChassisControllerFactory::create(
-	{-1, 2, -3}, // Left Motors
-	{8, -9, 10}, // Right Motors
-	AbstractMotor::gearset::green, // 200 RPM
-	{4_in, 12.5_in} // 4 in wheels and 12.5 in wheelbase width
-);
-
-Motor claw(7);
-Motor lift(4);
+ 
