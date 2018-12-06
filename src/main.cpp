@@ -5,6 +5,10 @@ using namespace okapi;
 #include "./driver.hpp"
 
 void autonomous() {
+	subsystems();
+
+	chasis.moveAbosulte(500);
+	
 
 }
 
